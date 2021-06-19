@@ -2,7 +2,7 @@
   from Tec de Monterrey and more than ten years of experience in the telecommunications and customer service industries. 
 - 👀 I’m interested in ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... by email luzelenayllescas@hotmail.com
+- 📫 How to reach me ... by email luzelenayllescas@gmail.com
  
 <!---
 luciernaguz/luciernaguz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
