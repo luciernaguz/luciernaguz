@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @luciernaguz  Data Engineer with a certificate in Data Analysis and Visualization
   from Tec de Monterrey and more than ten years of experience in the telecommunications and customer service industries. 
+  Experience in Python, Java, C++, Hadoop, and SQL and NoSQL databases (PostgreSQL, MongoDB, MySQL) and data visualization tools such as JavaScript and D3.js.
 - 👀 I’m interested in ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... by email luzelenayllescas@gmail.com
